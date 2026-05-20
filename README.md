@@ -1,2 +1,2 @@
 Я - BI аналитик с опытом около года. 
-Полезен автомобильным компаниям так, как понимаю бизнес процессы и смогу автоматизировать процессы. Ищу удаленную работу или гибрид в Москве. Знаю SQL, оконные функции, CTE, Union, Python(использовал библиотеки pandas, NumPy, Matplotlib, Seaborn), создавал дашборды на Datalens, Superset.
+Полезен автомобильным компаниям так, как понимаю бизнес процессы и смогу автоматизировать процессы. Ищу удаленную работу или гибрид в Москве. Знаю SQL, оконные функции, CTE, Union, Python(использовал библиотеки pandas, NumPy, Matplotlib, Seaborn), создавал дашборды на Datalens, Superset.https://superset.bi-analysts.education-services.ru/superset/dashboard/1689/?native_filters_key=dpDylpSPbRbz4lW3TaG0q863cev46DRs9atrP-i-fnCTp2bRrqtZfqtSVupjtXN
